@@ -1,4 +1,4 @@
-# iq-tester
+# IQ Tester
 
 This IQ Tester is developed to Play and Enjoy the IQ Tester. 
 
